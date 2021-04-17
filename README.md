@@ -31,6 +31,7 @@ The User can define certain parameters pertaining to the fractal. These factors 
 -	Complexity – fractal repetition number (needs to be 1-7)
 -	Fractal stitch type (regular/ zig-zag)
 
+Steps:
 1.	Import the math library to perform numerical calculations
 2.	Define Parameters like pi value, max_stitch, dimension, and border_dimension. Max_stitch refers to the length of a single stitch while dimension and border_dimension refers to the length of elements and border respectively. 
 3.	The getStitches function calls all the pattern creation function to create the design.
